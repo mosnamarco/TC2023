@@ -1,10 +1,10 @@
-Hello my name is marco
+Hello my name is marco #name:marco #profile:martin
 
-No choices yet
+No choices yet  #name:pogi #profile:marco #bg:space
 
-but it will come...
+but it will come...  #name:marco #profile:martin
 
-it will come...
+it will come... #clearProfile
 
 *choice1
 *choice2

@@ -1001,7 +1001,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.49056602, g: 0.23834105, b: 0.23834105, a: 1}
+  m_Color: {r: 0.7264151, g: 0.7264151, b: 0.7264151, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1398,7 +1398,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 659958248}
+  nameText: {fileID: 1477156951}
   inkAsset: {fileID: 4900000, guid: 3f1b85fd83823d149b34654fce9bcdc1, type: 3}
+  profileImage: {fileID: 2097153500}
+  backgroundImage: {fileID: 866344582}
   choiceButton: {fileID: 4805000708476338249, guid: 5d7e887eb05f9de4eb2b4c9e2ea4a53c, type: 3}
   choicePanel: {fileID: 775373506}
 --- !u!4 &1791809073
@@ -1462,7 +1465,7 @@ GameObject:
   m_Layer: 5
   m_Name: profile_frame
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 2488908585195742037, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -1499,7 +1502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
